@@ -1,47 +1,21 @@
+body{
+    font-size: 20px;
+}
+.titles{
+    font-weight: bold;
+}
 h1{
     font-family: sans-serif,Arial, Helvetica, sans-serif;
     text-align: center;
     font-weight: bold;
     font-size: 50px;
-}
-.banner{
-    text-align: center;
     font-style: oblique;
 }
 
-h2{
-    text-align: center
-}
-.logo{
-
-
-}
-.body{
-    font-size: 20px;
-}
-.staff{
-  text-align: center;
-}
-.footer{
-  background-color: #49ee21;
-  height: 200px;
-}
-
-
-
-
-
-
-
-
-
-
-
 /* nav bar */
-body {
+body{
     margin: 0;
-    font-size: 28px;
-  }
+}
   
   .header {
     background-color: black;
