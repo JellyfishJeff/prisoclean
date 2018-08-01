@@ -12,12 +12,11 @@ h1{
 h2{
     text-align: center
 }
-.logo{
 
-
-}
 .body{
     font-size: 20px;
+    text-align: center;
+    margin: auto;
 }
 .staff{
   text-align: center;
@@ -71,8 +70,7 @@ body {
   }
   
   #navbar a.active {
-
-    color:black;
+   color:black;
   }
   
   .content {
