@@ -14,6 +14,11 @@ h1{
 #logo{
     float: left;
 }
+.footer{
+    text-align: center;
+    background-color: #49ee21;
+    height: 250px;
+  }
 /* nav bar */
 body{
     margin: 0;
