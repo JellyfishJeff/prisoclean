@@ -26,9 +26,17 @@ h2{
   height: 200px;
 }
 
+.responsive{
+  width: 100%;
+  height: auto;
+}
+#logo{
+  float: left;
 
+}
 
-
+/* slideshow */
+.mySlides {display:none;}
 
 
 
