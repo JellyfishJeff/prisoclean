@@ -2,6 +2,7 @@ body{
     font-size: 20px;
 }
 .titles{
+    font-family: sans-serif,Arial, Helvetica, sans-serif;
     font-weight: bold;
 }
 h1{
@@ -9,6 +10,9 @@ h1{
     font-weight: bold;
     font-size: 50px;
     font-style: oblique;
+}
+h2{
+    font-family: sans-serif,Arial, Helvetica, sans-serif;
 }
 #logo{
     float: left;

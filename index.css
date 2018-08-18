@@ -8,12 +8,15 @@ h1{
 }
 
 h2{
+  font-family: sans-serif,Arial, Helvetica, sans-serif;
     text-align: center
+}
+#master{
+  float: right;
 }
 
 .body{
     font-size: 20px;
-    text-align: center;
     margin: auto;
 }
 .staff{
@@ -33,12 +36,20 @@ h2{
 
 }
 #slogan{
+  text-align: center;
   font-style: oblique;
   font-size: 50px;
 }
 
 /* slideshow */
 .mySlides {display:none;}
+
+#How{
+  text-align: center;
+  font-family: sans-serif,Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+}
 
 
 
